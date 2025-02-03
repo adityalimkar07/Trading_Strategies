@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 
-# Fetch IBM stock data from Yahoo Finance
 data = pd.read_csv('RELIANCE_1d.csv')
 
 # Function Definitions for Each Alpha Factor
